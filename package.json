@@ -1,0 +1,12 @@
+{
+  "name": "node-cms",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "mime": "~1.2.7",
+    "vivagraphjs": "0.7.12"
+  }
+}
